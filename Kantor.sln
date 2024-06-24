@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KantorApp", "KantorApp\KantorApp.csproj", "{4057A271-8B61-48C6-A377-9E6024CB8E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4057A271-8B61-48C6-A377-9E6024CB8E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4057A271-8B61-48C6-A377-9E6024CB8E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4057A271-8B61-48C6-A377-9E6024CB8E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4057A271-8B61-48C6-A377-9E6024CB8E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3956C9B8-6961-4F89-AAF5-256E44B433E3}
+	EndGlobalSection
+EndGlobal
